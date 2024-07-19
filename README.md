@@ -1,3 +1,4 @@
+# USE AT YOUR OWN RISK
 ### Description
 
 This app implements a tool to encrypt and decrypt files via a simple CLI.
